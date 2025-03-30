@@ -8,6 +8,9 @@ This project is a web-based Chess game developed using HTML, CSS, and JavaScript
 - **Responsive Design**: Optimized for various screen sizes to ensure a seamless experience across devices.
 - **Intuitive UI**: Clear visuals and animations enhance the gaming experience.
 
+![image](https://github.com/user-attachments/assets/58712b83-9c0a-4321-aae0-45378e14af3b)
+
+
 ## Installation
 
 To run this project locally:
